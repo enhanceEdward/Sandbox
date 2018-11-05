@@ -1,0 +1,7 @@
+this is a first try
+
+ok I have now edited the file
+
+I am writing in the trial 1 branch
+
+I am now writing in a branch created from another branch
